@@ -11,9 +11,4 @@
           class="ru.alishev.springcourse.RockMusic">
     </bean>
 
-    <bean id="testBean"
-          class="ru.alishev.springcourse.TestBean">
-        <constructor-arg value="Meiram"/>
-    </bean>
-
 </beans>
